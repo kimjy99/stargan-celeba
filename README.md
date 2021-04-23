@@ -6,7 +6,7 @@ StarGAN with CelebA dataset
 ![generator_img](./images/generator.png)  
   
 ### Discriminator:  
-![discriminator_img](./images/DCGAN_CelebA_3.png)  
+![discriminator_img](./images/discriminator.png)  
 
 ### Gan Loss:  
 > WGAN-GP
