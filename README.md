@@ -21,21 +21,21 @@ StarGAN with CelebA dataset
 
 ------------------
 ## Change only one character (blonde / gender / age)  
-> Blonde → not blonde  
+### Blonde → not blonde  
   
 ![blonde2not_blonde_img](./images/blonde2not_blonde.png)  
-> Not blonde → Blonde  
+### Not blonde → Blonde  
   
 ![blonde2not_blonde_img](./images/not_blonde2blonde.png)  
-> Male → Female  
+### Male → Female  
   
 ![blonde2not_blonde_img](./images/male2female.png)  
-> Female → Male  
+### Female → Male  
   
 ![blonde2not_blonde_img](./images/female2male.png)  
-> Young → Old  
+### Young → Old  
   
 ![blonde2not_blonde_img](./images/young2old.png)  
-> Old → Young  
+### Old → Young  
   
 ![blonde2not_blonde_img](./images/old2young.png)  
