@@ -21,6 +21,7 @@ StarGAN with CelebA dataset
 
 ------------------
 ## Change an image linealy  
+> Change hair color, gender, and age simultaneously
 ![test_gif](./images/test.gif)  
 
 ------------------
