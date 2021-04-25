@@ -20,6 +20,10 @@ StarGAN with CelebA dataset
 ![loss_img](./images/loss_img.png)  
 
 ------------------
+## Change an image linealy  
+![test_gif](./images/test.gif)  
+
+------------------
 ## Change only one character (blonde / gender / age)  
 ### Blonde → not blonde  
   
