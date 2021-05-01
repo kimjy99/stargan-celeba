@@ -22,15 +22,17 @@ StarGAN with CelebA dataset
 ------------------
 ## Change an image linealy  
 > Change hair color, gender, and age  
-![test1_gif](./images/test1.gif)  
+<img src='./images/test1.gif' align='center'/>  
+  
 > Change hair color, gender, and age in order  
-![test2_gif](./images/test2.gif)  
+<img src='./images/test2.gif' align='center'/>  
+  
 > Change several images
-![test3_gif](./images/test3.gif)  
+<img src='./images/test3.gif' align='center'/>  
 
 ------------------
 ## Change a gif file not in celeba dataset  
-![elon_gif](./images/elon-combined.gif)  
+<img src='./images/elon-combined.gif' align='center'/>  
 
 ------------------
 ## Change only one character (blonde / gender / age)  
