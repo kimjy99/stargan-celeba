@@ -32,7 +32,7 @@ StarGAN with CelebA dataset
 
 ------------------
 ## Change a gif file not in celeba dataset  
-<img src='./images/elon-combined.gif' align='center'/>  
+<img src='./images/elon2-combined.gif' align='center'/>  
 
 ------------------
 ## Change only one character (blonde / gender / age)  
