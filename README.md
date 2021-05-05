@@ -32,7 +32,9 @@ StarGAN with CelebA dataset
 
 ------------------
 ## Change a gif file not in celeba dataset  
+> Female Elon Musk  
 <img src='./images/elon2/elon2-combined.gif' align='center'/>  
+> IU with blond hair  
 <img src='./images/iu/iu-combined.gif' align='center'/>  
   
 ------------------
