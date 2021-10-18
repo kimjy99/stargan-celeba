@@ -1,5 +1,6 @@
 StarGAN with CelebA dataset
 =============
+![output_gif](./images/test3.gif)
 
 ## Model
 > [Download (Kaggle)](https://www.kaggle.com/kimjiyeop/stargan-model)
@@ -27,9 +28,6 @@ StarGAN with CelebA dataset
   
 > Change hair color, gender, and age in order  
 <img src='./images/test2.gif' align='center'/>  
-  
-> Change several images
-<img src='./images/test3.gif' align='center'/>  
 
 ------------------
 ## Change a gif file not in celeba dataset  
