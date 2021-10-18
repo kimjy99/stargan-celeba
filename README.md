@@ -2,6 +2,7 @@ StarGAN with CelebA dataset
 =============
 
 ## Model
+> [Download (Kaggle)](https://www.kaggle.com/kimjiyeop/stargan-model)
 ### Generator:  
 ![generator_img](./images/generator.png)  
   
