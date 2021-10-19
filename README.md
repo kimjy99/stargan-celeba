@@ -45,18 +45,23 @@ StarGAN with CelebA dataset
 ### Blonde → not blonde  
   
 <p align="center"><img src='./images/blonde2not_blonde.png' width='70%'></p>  
+
 ### Not blonde → Blonde  
   
 <p align="center"><img src='./images/not_blonde2blonde.png' width='70%'></p>  
+
 ### Male → Female  
   
 <p align="center"><img src='./images/male2female.png' width='70%'></p>  
+
 ### Female → Male  
   
 <p align="center"><img src='./images/female2male.png' width='70%'></p>  
+
 ### Young → Old  
   
 <p align="center"><img src='./images/young2old.png' width='70%'></p>  
+
 ### Old → Young  
   
 <p align="center"><img src='./images/old2young.png' width='70%'></p>  
